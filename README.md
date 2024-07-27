@@ -1,5 +1,4 @@
 # Power-Bi
-projects on Power-Bi
 This Project is an interactive and comprehensive Power BI dashboard designed to analyze and visualize key data trends within the data science field. This project aims to provide valuable insights into various job roles, salaries, work-life balance, and demographic information of professionals in the data science industry.
 
 **Key Features:-**
